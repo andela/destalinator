@@ -1,5 +1,5 @@
 # Name of your Slack (Deprecated in favour of the SLACK_NAME env var)
-slack_name: rands-leadership
+slack_name: andela
 
 # Name of environment variable holding a valid Slackbot API token
 slackbot_api_token_env_varname: SB_TOKEN
